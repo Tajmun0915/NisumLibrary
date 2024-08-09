@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Book/Book.iml" filepath="$PROJECT_DIR$/Book/Book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConfigServer/ConfigServer.iml" filepath="$PROJECT_DIR$/ConfigServer/ConfigServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Customer/Customer.iml" filepath="$PROJECT_DIR$/Customer/Customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DiscoverRegistory/DiscoverRegistory.iml" filepath="$PROJECT_DIR$/DiscoverRegistory/DiscoverRegistory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GatewayService/GatewayService.iml" filepath="$PROJECT_DIR$/GatewayService/GatewayService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/NisumLibrary.iml" filepath="$PROJECT_DIR$/.idea/NisumLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Purchase/Purchase.iml" filepath="$PROJECT_DIR$/Purchase/Purchase.iml" />
+    </modules>
+  </component>
+</project>
